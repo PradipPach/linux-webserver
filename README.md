@@ -11,7 +11,7 @@ sudo chmod 700 /var/www/html
 sudo touch index.html
 sudo nano index.html
 
-&lt;h1> webserver &lt;/h1>
+<h1> webserver </h1>
 
 // ec2-public-ip:80
 
